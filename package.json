@@ -1,0 +1,20 @@
+{
+  "name": "a9",
+  "version": "1.0.0",
+  "description": "Aural 9 Monitoring Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Ortega",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "chosen-js": "^1.8.7",
+    "datatables.net-dt": "^1.10.18",
+    "jquery": "^3.4.1",
+    "jquery-ui": "^1.12.1",
+    "mustache": "^3.1.0",
+    "pdfjs": "^2.0.0"
+  }
+}
